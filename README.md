@@ -98,6 +98,4 @@ The SHAP analysis revealed:
 - Pandas, NumPy for data processing
 - Matplotlib, Seaborn for visualization
 
-## License
-
-This project is part of the EPITA AI Project Methodology course. 
+ 
